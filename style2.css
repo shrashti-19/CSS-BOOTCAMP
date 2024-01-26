@@ -1,0 +1,34 @@
+.bm{
+  border: 10px solid;
+  width: 400px;
+  border-color: grey;
+  margin: 35px;
+  padding: 30px 30px;
+}
+.bm1{
+    padding: 30px 30px;
+}
+.bm2{
+    padding-left: 30px;
+    padding: 10px;
+    color: blue;
+}
+.i1{
+    height: 70px;
+    width: 70px;
+    border-radius: 60px;
+}
+.i2{
+    height: 70px;
+    width: 70px;
+    border-radius: 60px;
+}
+h2{
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.images{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 70px;
+}
