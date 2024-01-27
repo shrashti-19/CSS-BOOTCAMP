@@ -1,0 +1,29 @@
+.i1{
+    width: 100%;
+    height: 200px;
+    border-radius: 15px 20px;
+}
+.i2{
+    width: 25%;
+    height: 200px;
+    top: 0px;
+    border-radius: 15px 20px;
+}
+.parent-image .i1{
+    position: relative;
+    display: inline-block;
+}
+.i2{
+    position: absolute;
+    height: 120px;
+    border-radius: 50%;
+    left: 190px;
+    bottom: -40px;
+    border: 4px solid white;
+    top: 20%;
+}
+.linkedin{
+    border: 1px solid gray;
+    border-radius: 40px;
+    padding: 10px;
+}
